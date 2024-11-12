@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\bin\Debug\net6.0\Console_Banking_Application.exe
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\bin\Debug\net6.0\Console_Banking_Application.deps.json
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\bin\Debug\net6.0\Console_Banking_Application.runtimeconfig.json
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\bin\Debug\net6.0\Console_Banking_Application.dll
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\bin\Debug\net6.0\Console_Banking_Application.pdb
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.AssemblyInfo.cs
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.dll
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\refint\Console_Banking_Application.dll
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.pdb
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\Console_Banking_Application.genruntimeconfig.cache
+C:\Users\hp\source\repos\Console_Banking_Application\Console_Banking_Application\obj\Debug\net6.0\ref\Console_Banking_Application.dll
